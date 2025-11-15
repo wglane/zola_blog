@@ -1,0 +1,10 @@
+{
+  "name": "zola_blog",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "npx @cloudflare/zola build"
+  },
+  "devDependencies": {
+    "@cloudflare/zola": "latest"
+  }
+}
